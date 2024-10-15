@@ -1,10 +1,10 @@
 {
-  "homepage": "https://AlizaAzmat.github.io/<Ai",
+  "homepage": "https://AlizaAzmat.github.io/AI-React-Project",
   "name": "my-first-app",
   "private": true,
   "version": "0.0.0",
   "type": "module",
- "scripts": {
+  "scripts": {
   "build": "vite build",
   "predeploy": "npm run build",
   "deploy": "gh-pages -d dist"
